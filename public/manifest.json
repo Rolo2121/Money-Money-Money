@@ -15,11 +15,7 @@
 			"sizes": "128x128",
 			"type": "image/png"
 		},
-		{
-			"src": "public/icons/icon-144x144.png",
-			"sizes": "144x144",
-			"type": "image/png"
-		},
+
 		{
 			"src": "public/icons/icon-152x152.png",
 			"sizes": "152x152",
@@ -45,6 +41,6 @@
 	"short_name": "Money",
 	"start_url": "./index.html",
 	"display": "standalone",
-	"background_color": "#01579b",
+	"background_color": "#6666ff",
 	"theme_color": "#ffffff"
 }
