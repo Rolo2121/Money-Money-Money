@@ -43,8 +43,7 @@
 	],
 	"name": "budget-app",
 	"short_name": "Money",
-
-	"start_url": "../index.html",
+	"start_url": "./index.html",
 	"display": "standalone",
 	"background_color": "#01579b",
 	"theme_color": "#ffffff"
